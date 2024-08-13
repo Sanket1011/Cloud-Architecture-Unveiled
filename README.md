@@ -1,1 +1,2 @@
-# Cloud-Architecture-Unveiled
+# Cloud Architecture Unveiled: A Step-by-Step Journey Through Modern Development
+This article, "Cloud Architecture Unveiled," chronicles the journey of designing a robust and scalable cloud architecture tailored for FutureTech Institute. The project was not just about building a technical solution; it was about creating a foundation that would support the institution's growth and evolution. The article dives into each phase of the development process, from understanding the institution’s data management needs to envisioning and implementing a cloud architecture capable of handling complex data pipelines and real-time analytics. Connect with me on <a href="https://www.linkedin.com/in/sanket-ruia/">LinkedIn</a>
